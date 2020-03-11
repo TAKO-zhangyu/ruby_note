@@ -1,4 +1,5 @@
 #https://www.youtube.com/watch?v=-hhjtDmN5xg
+#レビューを受けていないノート
 
 class Person
   #好きな食べ物が何かを、このような形式で書く。
